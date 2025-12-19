@@ -209,6 +209,44 @@ function App() {
         </div>
       </section>
 
+      {/* Meet the Founder Section */}
+      <section id="founder" className="founder-section">
+        <h2 className="section-title">
+          <Star className="title-icon" />
+          Meet the Founder
+          <Star className="title-icon" />
+        </h2>
+
+        <div className="founder-content">
+          <div className="founder-avatar">
+            <div className="avatar-circle">
+              <span>AS</span>
+            </div>
+            <div className="avatar-decorations">
+              <span className="mini-bear">🧸</span>
+              <Sparkles className="founder-sparkle" />
+            </div>
+          </div>
+
+          <div className="founder-info">
+            <h3>Aliana Serpas</h3>
+            <p className="founder-title">Founder & Creator, Age 10</p>
+            <p className="founder-story">
+              Aliana grew up loving fidget toys, and one day decided to create one herself!
+              What started as a fun project turned into What's Poppin! - bringing joy to
+              kids and adults everywhere with colorful, satisfying Picky Pads.
+            </p>
+            <p className="founder-mission">
+              <Heart size={16} className="heart-icon" />
+              All proceeds go towards Aliana's college education fund.
+            </p>
+            <p className="founder-fun-fact">
+              <span className="fun-fact-label">Fun Fact:</span> Her favorite gem in the Picky Pad is the mini-bears! 🧸
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="footer">
         <div className="footer-content">
