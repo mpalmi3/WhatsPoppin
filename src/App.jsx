@@ -17,7 +17,7 @@ const products = [
     name: 'Large Picky Pad',
     price: 15,
     size: 'Large',
-    description: 'More bubbles, more fun! The ultimate desktop fidget companion.',
+    description: 'More gems, more fun! The ultimate desktop fidget companion.',
     colors: ['#9B7ED9', '#4EC5F1', '#FF6B9D', '#7ED957', '#FFE066'],
     image: 'large'
   },
@@ -157,9 +157,9 @@ function App() {
         <div className="about-content">
           <div className="about-intro">
             <p>
-              Picky Pads are the ultimate fidget toy experience! These bubble-popping
-              sensory toys provide endless satisfaction with their soft, silicone bubbles
-              that you can push and pop again and again.
+              Picky Pads are the ultimate fidget toy experience! These satisfying
+              sensory toys are filled with colorful beads, gems, mini-bears, and other
+              fun treasures embedded in soft silicone - perfect for picking and fidgeting!
             </p>
           </div>
 
@@ -169,7 +169,7 @@ function App() {
                 <Smile size={40} />
               </div>
               <h3>Stress Relief</h3>
-              <p>The repetitive popping motion is incredibly calming and helps reduce anxiety and stress throughout your day.</p>
+              <p>The satisfying motion of picking at beads and gems is incredibly calming and helps reduce anxiety and stress throughout your day.</p>
             </div>
 
             <div className="benefit-card">
@@ -185,7 +185,7 @@ function App() {
                 <Users size={40} />
               </div>
               <h3>Ages 6+</h3>
-              <p>Kids and adults alike love the satisfying pop! Great for sensory play and fine motor skill development. Not for children under 6 due to small parts.</p>
+              <p>Kids and adults alike love picking out the colorful gems! Great for sensory play and fine motor skill development. Not for children under 6 due to small parts.</p>
             </div>
 
             <div className="benefit-card">
@@ -193,7 +193,7 @@ function App() {
                 <Star size={40} />
               </div>
               <h3>Fun Games</h3>
-              <p>Play pop races with friends, use it for counting games, or simply enjoy the satisfying sensory experience!</p>
+              <p>Race to find specific gems with friends, use it for counting games, or simply enjoy the satisfying sensory experience!</p>
             </div>
           </div>
 
@@ -201,7 +201,7 @@ function App() {
             <h3>Did You Know?</h3>
             <ul>
               <li>Picky Pads are made from safe, durable silicone</li>
-              <li>They're reusable - just flip and pop again!</li>
+              <li>They're reusable - push the gems back in and pick again!</li>
               <li>Perfect for quiet fidgeting in classrooms or offices</li>
               <li>Recommended for ages 6+ (small parts - choking hazard)</li>
             </ul>
