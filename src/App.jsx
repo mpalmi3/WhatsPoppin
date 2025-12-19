@@ -106,7 +106,7 @@ function App() {
           <p className="hero-subtitle">Fidget toys that pop with personality</p>
           <p className="hero-description">
             Discover the joy of Picky Pads - the satisfying, stress-relieving fidget toys
-            that everyone loves! Perfect for all ages.
+            that everyone loves! Perfect for ages 6 and up.
           </p>
           <div className="hero-buttons">
             <a href="#products" className="btn btn-primary">Shop Now</a>
@@ -184,8 +184,8 @@ function App() {
               <div className="benefit-icon">
                 <Users size={40} />
               </div>
-              <h3>For All Ages</h3>
-              <p>From kids to adults, everyone loves the satisfying pop! Great for sensory play and fine motor skill development.</p>
+              <h3>Ages 6+</h3>
+              <p>Kids and adults alike love the satisfying pop! Great for sensory play and fine motor skill development. Not for children under 6 due to small parts.</p>
             </div>
 
             <div className="benefit-card">
@@ -203,7 +203,7 @@ function App() {
               <li>Picky Pads are made from safe, durable silicone</li>
               <li>They're reusable - just flip and pop again!</li>
               <li>Perfect for quiet fidgeting in classrooms or offices</li>
-              <li>Available in tons of fun colors and patterns</li>
+              <li>Recommended for ages 6+ (small parts - choking hazard)</li>
             </ul>
           </div>
         </div>
